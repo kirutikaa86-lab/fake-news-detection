@@ -112,13 +112,6 @@ POST /predict
 
 ---
 
-## Research Paper
-
-The complete research paper is included in this repository:
-Fake_News_Detection_Paper.pdf
-
----
-
 ## Future Work
 
 * Improve performance using deep learning models (LSTM, BERT)
